@@ -1,0 +1,25 @@
+{
+  "name": "individual-web-development-portfolio-2026-s2-xr7umwalkjpeannv4ueb-nhuvinhkhanhvo-nhu-vinh-khanh-vo",
+  "version": "1.0.0",
+  "description": "fullstack_practice",
+  "homepage": "https://github.com/COMP3120-2026/individual-web-development-portfolio-2026-s2-xr7umwalkjpeannv4ueb-nhuvinhkhanhvo-nhu-vinh-khanh-vo#readme",
+  "bugs": {
+    "url": "https://github.com/COMP3120-2026/individual-web-development-portfolio-2026-s2-xr7umwalkjpeannv4ueb-nhuvinhkhanhvo-nhu-vinh-khanh-vo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/COMP3120-2026/individual-web-development-portfolio-2026-s2-xr7umwalkjpeannv4ueb-nhuvinhkhanhvo-nhu-vinh-khanh-vo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
