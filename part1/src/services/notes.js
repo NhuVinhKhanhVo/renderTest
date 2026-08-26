@@ -1,7 +1,7 @@
 import axios from 'axios'
 const baseUrl = '/api/notes'
 
-const cors = require("cors")
+
 
 
 
